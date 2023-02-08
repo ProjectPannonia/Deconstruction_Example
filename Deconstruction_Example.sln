@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deconstruction_Example", "Deconstruction_Example\Deconstruction_Example.csproj", "{B2B40E94-95AD-4DB9-9EF6-93ECEF3CB812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2B40E94-95AD-4DB9-9EF6-93ECEF3CB812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B40E94-95AD-4DB9-9EF6-93ECEF3CB812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B40E94-95AD-4DB9-9EF6-93ECEF3CB812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B40E94-95AD-4DB9-9EF6-93ECEF3CB812}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB3675F1-4779-4E1A-9D52-38E47DBF9AFE}
+	EndGlobalSection
+EndGlobal
